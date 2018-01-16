@@ -6,7 +6,7 @@
     "email": "victorlg@hawaii.edu",
     "phone": "808-465-2596",
     "website": "https://victor-jr.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I graduated from the University of Minnesota - Duluth with a major in Management Information Systems. I am currently studying Computer Science in the Department of Information and Computer Sciences at the University of Hawaii in order to complete the pre-requisites for the Masters in C.S Program.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -61,23 +61,20 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
+        "C#",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "SQL"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "AngularJS",
+        "NPM",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "DOTNET CORE"
       ]
     }
   ],
@@ -88,7 +85,7 @@
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.98",
       "courses": [
       ]
     }
