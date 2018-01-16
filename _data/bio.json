@@ -2,9 +2,9 @@
   "basics": {
     "name": "Molly Maluhia",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
+    "picture": "https://techfolios.github.io/images/victor.jpg",
+    "email": "victorlg@hawaii.edu",
+    "phone": "808-465-2596",
     "website": "https://mmaluhia.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
@@ -17,13 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "victor-jr",
+        "url": "http://github.com/victor-jr"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Victor Garcia Jr.",
+        "url": "https://www.linkedin.com/in/victor-garcia-5aa740108/"
       },
       {
         "network": "twitter",
