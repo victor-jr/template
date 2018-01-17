@@ -29,7 +29,7 @@
   },
   "interests": [
     {
-      "name": "internet of things"
+      "name": "Internet of Things"
     },
     {
       "name": "Web Development"
@@ -56,7 +56,8 @@
         "AngularJS",
         "NPM",
         "Git/GitHub",
-        "asp.net core"
+        "asp.net core",
+        "PHP"
       ]
     }
   ],
