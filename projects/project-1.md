@@ -12,7 +12,7 @@ labels:
   - Codeigniter Frameworkd
   - MySQL
   - Apache
-summary: Started a Eynch.com as a bidding site for home improvement with two other founders based in Baltimore, MD.
+summary: Started eynch.com as a bidding platform for home improvement with two other founders based in Baltimore, MD.
 ---
 
 <div class="ui small rounded images">
