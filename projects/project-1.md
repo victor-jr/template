@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: images/efynch.png
-title: Micromouse
-permalink: projects/micromouse
+title: Efynch
+permalink: projects/efynch
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2016-11-07
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - PHP
+  - Entrepreneur
+  - Codeigniter Frameworkd
+summary: Started a Eynch.com as a bidding site for home improvement with two other founders based in Baltimore, MD.
 ---
 
 <div class="ui small rounded images">
