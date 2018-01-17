@@ -10,6 +10,8 @@ labels:
   - PHP
   - Entrepreneur
   - Codeigniter Frameworkd
+  - MySQL
+  - Apache
 summary: Started a Eynch.com as a bidding site for home improvement with two other founders based in Baltimore, MD.
 ---
 
