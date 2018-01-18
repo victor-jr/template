@@ -2,16 +2,15 @@
 layout: project
 type: project
 image: images/agroforestry.PNG
-title: Vacay
+title: Agroforestry Website
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2016-12-10
 labels:
   - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - HTML
+  - CSS
+summary: Agricultural website I maintain for the Research Corporation at the University of Hawaii.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
