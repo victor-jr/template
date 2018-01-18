@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/ics111.PNG
 title: Cotton
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
