@@ -19,5 +19,5 @@ Within our project we divied up tasks by the classes needed for the game. I took
 
 This project along with the course, ICS 311 taught the basics of programming with Java. Although I have already been familiar with the Java language, there were other aspects to the class that I took as a learning experience. I learned how to work on a project better with a team and how to manage a project that could take up to a few months to complete.
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/victor-jr/ics111project3.git"><i class="large github icon "></i>victor-jr/ics111project3</a>
 
