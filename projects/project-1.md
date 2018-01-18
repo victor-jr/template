@@ -24,7 +24,7 @@ My role for the project was CTO. I was responsible for creating a proof of conce
 
 This project taught me a lot about development for a startup. I learned that one very important skill all developers should have is to adapt to the situation you are in. Taking on a big project such as this has also helped me to learn to work with others so that the overall project can be done in an efficient manner. Since this project has also been an entrepreneurship experience, I have also learned the hard work needed to start a business.
 
-You may visit the site at <a href="www.efynch.com">Efynch.com</a>
+You may visit the site at <a href="http://efynch.com/">Efynch.com</a>
 
 
 
