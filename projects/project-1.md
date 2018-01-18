@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/efynch.PNG
+image: images/efynch_1.PNG
 title: Efynch
 permalink: projects/efynch
 # All dates must be YYYY-MM-DD format!
