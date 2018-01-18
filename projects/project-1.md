@@ -8,7 +8,6 @@ permalink: projects/efynch
 date: 2016-11-07
 labels:
   - PHP
-  - Entrepreneur
   - Codeigniter Frameworkd
   - MySQL
   - Apache
