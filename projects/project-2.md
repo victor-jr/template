@@ -13,9 +13,11 @@ labels:
 summary: Agricultural website I maintain for the Research Corporation at the University of Hawaii.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/agro1.PNG">
+<img class="ui medium image" src="../images/agro1.PNG">
 
-<img class="ui medium right floated rounded image" src="../images/agro2.PNG">
+<img class="ui medium image" src="../images/agro2.PNG">
+
+<br />
 
 This website is used to represent agricultural data for the Marshall Islands. This would provide information for people such as local farmers in the Marshall Islands who may be concerned with thier crops for certain periods of the season. The project is currently held at the Pacific Islands Ocean Observing System server at <a href="http://www.pacioos.hawaii.edu/">www.pacioos.hawaii.edu</a>. The final goal of the project is to the move the website to the servers at the College of the Marshall Islands.
 
