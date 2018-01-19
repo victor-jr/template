@@ -15,7 +15,7 @@ I graduated from the University of Minnesota - Duluth in 2012 with a major in MI
 <img class="ui tiny left circular floated image" src="../images/progress.jpeg">
 ## Current Progress
 Since then I’m now currently in ICS 314 Software Engineering 1 at the University of Hawaii - Manoa. I’ve definitely learned a lot since when I started with things such as the ADTs and algorithms and its been pretty challenging. Even though its some courses have been a challenge I look at it as “if it was easy I probably just wasted my tuition money”. I’ve still got just a few more classes before being eligible for the Master’s program so I’m just taking it one class at a time trying to learn and apply any new information provided to me. 
-<img class="ui tiny left circular floated image" src="../images/success.jpeg">
+<img class="ui tiny left circular floated image" src="../images/success.jpg">
 ## Advice
 For anyone who decides to take the same path I did or might even be just getting their Bachelor’s in Computer Science, I would say to make sure you truly have a passion for the field because that passion would mesh well with your learning. If you’re not coding anything at home other than class projects I would imagine that you would have a difficult time through the major as continuous coding and your own research does help in some of these classes. There are things that your classes might not teach you but you could still apply to your projects and homework. I’ve found that courses I enrolled in that I’m more interested in usually were the classes I had the best grades for. Also try not to look at your courses as a path to your graduation but instead tools to better equip you to be more skilled and more valuable.
 
