@@ -1,13 +1,14 @@
 ---
 layout: essay
 type: essay
-title: Javascript: No Pain No Gain
+title: Pursuit of Further Understanding
 # All dates must be YYYY-MM-DD format!
-date: 2018-01-19
+date: 2018-01-17
 labels:
   - Software Engineering
-  - Javascript
+  - Learning
 ---
+
 
 ## Familiar Grounds
 
