@@ -9,10 +9,13 @@ labels:
   - Learning
 ---
 
+<img class="ui tiny left circular floated image" src="../images/javascript-codes.jpeg">
 
 ## Familiar Grounds
 
 Prior to using javascript in ICS 314, I’ve been using the language to build web applications and creating dynamic functionality for websites. I don’t consider myself an expert in javascript but I felt comfortable with what we learned so far in class. I truly like the language as it's pretty easy to learn and apply to projects right away. In comparison to other languages, I would have to give more favor to others such as C# and Java when it comes to object oriented programming (OOP). I put more favor in those languages because of its strongly typed rules. I just feel more comfortable and complete when I assign a type to my variables. But this would not deter me from using javascript because of the fact that you can use TypeScript to put in strongly typed functionality to javascript. 
+
+<img class="ui tiny left circular floated image" src="../images/lightbulb.jpeg">
 
 ## A New Trick
 
@@ -34,6 +37,8 @@ That was a pretty neat trick compared to the for or while loop, and even the
 array.forEach()
 ```
 
+<img class="ui tiny left circular floated image" src="../images/job-thumbs-up.jpeg">
+
 ## Learn It Use It
 
 If you were looking for a language to learn, I would first say pick something that you enjoy and would use most in your career field. Then I would say, especially for web development, make sure to learn javascript. I firmly believe that javascript is a good language to learn because of its low learning curve and value among employers. Attached below is an indeed chart from an article at <a href="http://www.codingdojo.com/blog/7-most-in-demand-programming-languages-of-2018/" tareget="_blank">codingdojo.com</a> highlighting the most in demand programming languages.
@@ -41,6 +46,8 @@ If you were looking for a language to learn, I would first say pick something th
 <img class="ui image" src="../images/top_language_trends.jpg">
 
 We can see that javascript is third in most demanded languages for employers.
+
+<img class="ui tiny left circular floated image" src="../images/crossfit.jpeg">
 
 ## WODs
 
