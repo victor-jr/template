@@ -9,6 +9,8 @@ labels:
   - StackOverflow
 ---
 
+<img class="ui tiny left circular floated image" src="../images/question.jpeg">
+
 Asking for a technical question on stackoverflow is something I rarely do, in fact I never actually have posted a question on the site as of currently writing this essay. I usually will exhaust all my searches and documentation reading before I even think about going to ask for help on the technical question I needed answered.
 
 I believe that one should do as much as they can trying to solve their problem before asking for help. In the context of programming, most of what you will need are in the documentation. It is  usually a vast and deep tool to read through but it is truly helpful in understanding what you need. This will benefit you in two ways; one, you can solve your problem by finding the solution on your own and two, you will learn a lot more when you are able to take the steps that led you to the solution.
