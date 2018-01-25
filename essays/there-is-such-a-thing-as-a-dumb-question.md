@@ -1,12 +1,12 @@
 ---
 layout: essay
 type: essay
-title: Pursuit of Further Understanding
+title: There is such a thing as a dumb question
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-17
 labels:
-  - Software Engineering
-  - Learning
+  - Smart Questions
+  - StackOverflow
 ---
 
 Asking for a technical question on stackoverflow is something I rarely do, in fact I never actually have posted a question on the site as of currently writing this essay. I usually will exhaust all my searches and documentation reading before I even think about going to ask for help on the technical question I needed answered.
