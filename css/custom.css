@@ -1,0 +1,16 @@
+.home-video {
+    position: fixed; 
+    z-index: -99; 
+    width: 100%; 
+    height: 100%;
+    transform: scale(2);
+}
+
+.video-credit {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    padding: 1rem;
+    color: dimgray;
+    font-size: small;
+}
