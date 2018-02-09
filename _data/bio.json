@@ -107,6 +107,42 @@
         "Take agricultural data and present into a user friendly interface.",
         "Work with researchers on showing data needed for users."
       ]
+    },
+    {
+      "company": "College of The Marshall Islands",
+      "position": "Database and Web Developer",
+      "website": "http://cmi.edu/",
+      "startDate": "2014-09-05",
+      "endDate": "2016-09-05",
+      "summary": "Developed and implemented business web applications.",
+      "highlights": [
+        "Worked with the College IT Director and the College President developing tools to track college educational service progress.",
+        "Provide support and maintenance of the College Student Information Systems."
+      ]
+    },
+    {
+      "company": "Office of the Auditor General",
+      "position": "Performance Audit Supervisor",
+      "website": "http://rmioag.com/",
+      "startDate": "2013-05-10",
+      "endDate": "2014-09-05",
+      "summary": "Data Analyst",
+      "highlights": [
+        "Plan and Implement Programs for Government State Owned Enterprises",
+        "Write Reports for Government Bi-Annual Review",
+        "Perform Cooperative Programs in the Pacific Region"
+      ]
+    },
+    {
+      "company": "MISGLB",
+      "position": "Database Administrator",
+      "startDate": "2012-08-15",
+      "endDate": "2013-05-25",
+      "summary": "Database Admin",
+      "highlights": [
+        "Plan, design, and build a student tracking system",
+        "Provided consultation on software updates and business processes "
+      ]
     }
   ],
   "awards": [
