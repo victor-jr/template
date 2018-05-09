@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/landingpagedraft2.png
+image: images/landingpagedraft2.PNG
 title: ICS 314 SmallKineJobs
 permalink: projects/smallkinejobs
 # All dates must be YYYY-MM-DD format!
