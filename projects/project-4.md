@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/landingpagedraft2.PNG
+image: images/landingpagedraft3.PNG
 title: ICS 314 SmallKineJobs
 permalink: projects/smallkinejobs
 # All dates must be YYYY-MM-DD format!
@@ -10,7 +10,7 @@ labels:
   - Meteor
   - ReactJS
   - MongoDB
-summary: A Meteor/React App to connect employers with UH Students looking for work. Developed for ICS 111.
+summary: A Meteor/React App to connect employers with UH Students looking for work.
 ---
 <img class="ui medium image" src="../images/finalPostAJob.PNG">
 
