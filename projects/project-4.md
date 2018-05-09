@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ics111.PNG
+image: images/landingpagedraft2.png
 title: ICS 314 SmallKineJobs
 permalink: projects/smallkinejobs
 # All dates must be YYYY-MM-DD format!
@@ -12,13 +12,22 @@ labels:
   - MongoDB
 summary: A Meteor/React App to connect employers with UH Students looking for work. Developed for ICS 111.
 ---
+<img src="images/finalPostAJob.png" />
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fPl7cXM5jX0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<br />
-This game was created by my group and I for our final project in ICS 111. This game is an rpg game where you as the main hero walks through space until you meet a mystical dragon who blocks your path. Using a roll based fighting system you need to defeat the dragon to win the game. This game was developed to showase what we learned in ICS 111 including: java classes, prperties, methods, inheritance, primative data types, basic game develoment, etc...
+## About
+This project was created by my class group and I for our final project in ICS 314. The Small Kine Jobs app will be used to help students who would like to find short term employment. Reasons for needing short term employment could be: The student is only at the University for a year or less, a student needing quick cash, or even if an employer needs an employee for a short period of time. This app would provide a quick and easy outlet to find an employer/employee without having to go to a temporary job agency, which can sometimes have long replying periods or sometimes too many applicants. Most importantly the app is specific for UH students, who already have the financial burden of funding their education.
 
-Within our project we divied up tasks by the classes needed for the game. I took the role on creating the character classes. I started off by creating a main abstract person class which would then be inherited by the hero class and the enemy class. These two classes would thus then have the same fighting mechanism that is featured in the game. Besides being primarily responsible for the characters I would also pick up task during the game development when the other team memebers needed help. This ranged from the game screen to the weapon system.
+<img src="images/finalEmployerLanding.png" />
 
-This project along with the course, ICS 311 taught the basics of programming with Java. Although I have already been familiar with the Java language, there were other aspects to the class that I took as a learning experience. I learned how to work on a project better with a team and how to manage a project that could take up to a few months to complete.
+## Development
+Within our project we used Github to divide up the tasks that were needed to be completed. We created an organization and each of us forked the project to our local development. When an issue was completed we would then issue a pull request which would then be reviewed by one of the other memebers to approval.
 
-Source: <a href="https://github.com/victor-jr/ics111project3.git"><i class="large github icon "></i>victor-jr/ics111project3</a>
+I contributed to the project by lending my experience in previous web development. I was able to create multiple components and api's that were needed to wire up the app job and user logic. Between creating components and fixing any bugs I would also help my fellow team members on any issues they were having.
+
+<img src="images/finalInvitePastUserToOtherJob.png" />
+
+## Learning Experience
+This project has given me better experience when coding with a team. I've learned how to use git properly and more efficiently. Where as before I would code on a project myself and fix bugs that I have created, this has taught me how to work with others and review their code and collaborate with them on any issues that arose during our development process.
+
+Source: <a href="https://smallkinejobs.github.io/"><i class="large github icon "></i>Small Kine Jobs GitHub Page</a>
+Application Demo: <a href="https://smallkinejobs.meteorapp.com">SmallKineJobs</a>
